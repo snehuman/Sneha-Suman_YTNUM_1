@@ -9,6 +9,4 @@ We all know how difficult it is to leave addiction so, how about, making a featu
 
 When a video exceeds the total watch time decided by the user, there's a warning to not to see that video, and suggesting different videos on the same topic, but with less number of watch time. And when the user exceeds the number of videos to be watched, no more new videos are suggested except the ones they have already watched. 
 
-Figma Link: 
-
-Prototype Link: 
+Figma Link: https://www.figma.com/design/od2DNoXT5Ar4DwusmjXNsZ/Untitled?node-id=0-1&t=AZyRhW7dJg3FJ2ms-1
